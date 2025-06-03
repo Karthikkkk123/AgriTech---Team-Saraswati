@@ -77,8 +77,11 @@ npm run dev
 ---
 
 ## 👥 Team Saraswati
-- Karthik K
-- [Add other team members here]
+- Karthikeya Pagidimarry
+- Rishitha B
+- Harshavardhan Perumalla
+- Jayanth Kumar
+- Abhinav Reddy
 
 ---
 
