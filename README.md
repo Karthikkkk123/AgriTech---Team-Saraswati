@@ -1,5 +1,14 @@
 # AgriTech - Team Saraswati 🌾
 
+## 📹 Project Demo Video
+
+Watch our project overview and demo:
+
+[![AgriTech -- Team Saraswati Demo](TEB.JPG)](AgriTech%20--%20Team%20Saraswati.mp4)
+
+If the video does not play in the browser, download and play it locally:
+[AgriTech -- Team Saraswati.mp4](AgriTech%20--%20Team%20Saraswati.mp4)
+
 ## Vision
 Revolutionizing agriculture through innovative technology solutions, making farming more sustainable, efficient, and profitable for farmers worldwide.
 
